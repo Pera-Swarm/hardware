@@ -1,0 +1,39 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb
+*Date=06:12:55
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;34.3597;-7.08529;-90;Bottom;J3
+2;;THT;26.7397;-2.00529;0;Bottom;Act
+3;;;22.3673;-26.6628;0;Bottom;IMG1
+4;;THT;19.5447;-16.0178;0;Bottom;BAT+
+5;;Melf DO-213 AA [SMD];34.0126;-9.64416;180;Bottom;D6
+6;;THT;2.60971;-35.0253;0;Bottom;J1
+7;;;2.60961;-28.6753;0;Bottom;Hole2
+8;;Melf DO-213 AA [SMD];27.6626;-12.1842;180;Bottom;D1
+9;;THT;10.5698;-15.9328;0;Bottom;BAT-
+10;;;41.9796;-37.5653;0;Bottom;Hole1
+11;;;41.9796;-3.27539;0;Bottom;Hole4
+12;;THT;7.68971;-8.35529;-90;Bottom;J2
+13;;THT;19.1197;-2.00529;-90;Bottom;J6
+14;;THT;22.9297;-37.5653;0;Bottom;IN+
+15;;THT;30.3372;-37.4377;0;Bottom;VOut-
+16;4.7k;1206 [SMD];20.1097;-10.8953;180;Bottom;R1
+17;;Melf DO-213 AA [SMD];34.0126;-12.1842;0;Bottom;D7
+18;;;2.60961;-3.27539;0;Bottom;Hole3
+19;10k;1206 [SMD];20.1097;-8.35529;180;Bottom;R2
+20;;THT;7.90222;-37.4803;0;Bottom;IN-
+21;;THT;37.3247;-37.4803;0;Bottom;VOut+
+22;;Melf DO-213 AA [SMD];27.6626;-9.64416;0;Bottom;D4
+23;;300 mil [THT];17.8751;-13.4353;0;Bottom;D5
+24;;THT;41.9797;-27.4053;0;Bottom;J5
