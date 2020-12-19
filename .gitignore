@@ -2,3 +2,7 @@
 
 gcode
 pdf
+gerber
+diptrace
+*.flatcam
+*.dip
