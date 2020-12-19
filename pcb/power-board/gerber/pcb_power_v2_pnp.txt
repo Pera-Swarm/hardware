@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb_power_v2
+*Date=16:45:49
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;10k;1206 [SMD];29.7512;-9.12763;180;Bottom;R3
+2;2.2k;1206 [SMD];35.7464;-7.50263;-90;Bottom;R5
+3;;THT;50.9863;-6.58763;0;Bottom;Buck_Conv1
+4;100nF;1206 [SMD, multilayer];38.2864;-7.57762;90;Bottom;C1
+5;;THT;12.8863;-9.12763;90;Bottom;Battery
+6;;THT;23.0463;-6.58763;0;Bottom;Buck_Conv
+7;;Melf DO-213 AA [SMD];9.09517;-3.75977;-90;Bottom;D1
+8;;dipswitch-02;62.4163;-6.58763;90;Bottom;SW1
+9;;THT;12.8863;-4.04763;90;Bottom;Charger
+10;;Melf DO-213 AA [SMD];9.09514;-9.39944;-90;Bottom;D2
+11;;THT;4.09138;-4.04763;90;Bottom;J11
+12;;THT;4.09138;-8.49263;90;Bottom;J12
+13;;THT;46.5413;-5.31763;180;Bottom;Robot_In
+14;;THT;56.0663;-6.58763;180;Bottom;J8
+15;;Melf DO-213 AA [SMD];16.7152;-3.75977;-90;Bottom;D3
+16;;Melf DO-213 AA [SMD];16.7151;-9.39944;-90;Bottom;D4
+17;;;32.6036;32.3112;0;Bottom;IMG1
